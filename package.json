@@ -57,6 +57,6 @@
     "dist"
   ],
   "dependencies": {
-    "dropzone": "^5.5.1"
+    "dropzone": "https://github.com/hungnm10/dropzone"
   }
 }
